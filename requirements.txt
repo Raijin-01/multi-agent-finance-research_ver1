@@ -1,0 +1,8 @@
+google-genai
+langgraph
+yfinance
+pandas
+numpy
+feedparser
+markdown2
+xhtml2pdf
